@@ -1901,7 +1901,7 @@ void delete_acc()
       if(choice == "admin")
       {     
             string total1;
-            cout << "Note : if you create the admin acc in this process and try to delete it,You can not delete the acc. So restart the program !"
+            cout << "Note : if you create the admin acc in this process and try to delete it,You can not delete the acc. So restart the program !";
             cout << "Enter the Admin acc name\t\t\t: ";
             cin >> usrname;
             cout << "Enter "<< usrname <<"'s password\t\t\t: ";
